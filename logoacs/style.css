@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+}
+
+#access{
+
+}
+
+#code{
+  background-color: red;
+
+}
+padding 4px;
+
+#school{
+text-decoration: overline;
+}
+
+.accesscode{
+/*text-decoration: underline;/*
+}
